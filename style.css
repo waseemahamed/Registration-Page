@@ -1,0 +1,18 @@
+.title{
+  font-size:25px
+}
+#title{
+  font-size:20px
+}
+.department{
+  font-size: 28px;
+}
+#y{bottom: 0; height: 22px; left: 0;right: 0;top: 0;width: 22px;}
+body{
+  background-color: #001162; color: white; text-align: center;text-decoration: inherit; border: 20px solid yellow; border-radius: 20px; margin: 30px;
+}
+.align{
+  text-align: left;
+  padding: 30px;
+  color: pink;
+}
